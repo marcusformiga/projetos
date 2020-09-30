@@ -1,2 +1,2 @@
 # projetos
-mini projetos para treinar a habilidade
+Mini projeto que desenvolvi com auxilio do instrutor da udemy, não sei se vai carregar os arquivos da forma como está no projeto final pois sou novato no github, apenas fiz o upload dos codigos e do style do css, o projeto foi o clone do spotfy usando o design responsivo, sou iniciante na área de programação (2 meses de estudos) o projeto pode conter alguns erros devido a ser um dos meus primeiros projetos, deixarei ele upado aqui para ter como base a minha evolução com o tempo de estudo.
