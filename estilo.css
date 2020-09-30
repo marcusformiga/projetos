@@ -1,0 +1,84 @@
+/*
+* 
+* @author Jamilton Damasceno
+*/
+
+body{
+    background: url(../imagens/capa.png),
+    url(../imagens/ruido.png),
+    linear-gradient(50deg, #ff4169, #7c26f8);
+    background-attachment:fixed ;
+}
+
+/*barra de navegação*/
+
+nav.navbar-transparent{
+   background: rgba(0,0,0, 0.6);
+}
+
+.navbar-light .navbar-nav .navbar-link{
+    color: seashell;
+}
+.navbar-light .navbar-nav .navbar-link:hover{
+    color: skyblue;
+}
+
+.capa{
+    text-align: center;
+}
+h1{
+    font-weight: 800;
+    letter-spacing: -0.05em;
+    margin-bottom: 50px;
+    color: silver;
+}
+
+h2{
+    font-size: 3em;
+    font-weight: 600;
+    letter-spacing: -0.04;
+}
+h3{
+    font-size: 2em;
+    font-weight: 500;
+    letter-spacing: -0.04;
+}
+#servicos{
+    background: silver;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+#servicos h2,h3{
+    color: slateblue;
+}
+
+#recursos h2,h3{
+    color: snow;
+}
+#recursos{
+    color: white;
+}
+#servicos{
+    color:royalblue;
+}
+
+footer{
+    background: black;
+    padding: 50px 0px 20px 0px;
+    position: relative;
+}
+
+footer h4{
+    color: blanchedalmond;
+    font-size: 0.8em;
+    text-transform: uppercase;
+}
+
+footer .navbar-nav a{
+    color: cornsilk;
+    text-decoration: none;
+}
+footer .navbar-nav a:hover{
+    color: cornsilk;
+    text-decoration: none;
+}
